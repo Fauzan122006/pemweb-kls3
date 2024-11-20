@@ -58,7 +58,7 @@
             transition: background-color 0.3s ease;
         }
         input[type="submit"]:hover {
-            background-color: #4cae4c;
+            background-color: #00b3c0;
         }
         .result {
             margin-top: 20px;
